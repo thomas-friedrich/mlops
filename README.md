@@ -1,1 +1,1 @@
-# mlops
+# Repository with notebooks for building a model to predict wine quality
